@@ -1,0 +1,16 @@
+Notes on Arduino Programming in C:
+
+- Arduino's code is just simplified C/C++
+	- The task at hand is just finding the functions and commands to add to a program
+		to make it run on the arduino, once the build environment is set up, writing
+		drivers should be easy
+		
+		
+		
+- Project Ideas:
+	- 1. Sensors
+		a. Make an LED Blink
+		b. Make that LED blink from a button input
+		c. Configure a sensor to take in data, have it print to this computer's terminal
+		d. Configure that sensor to make the LED blink for a specific range of values
+		

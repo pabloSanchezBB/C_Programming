@@ -1,0 +1,40 @@
+Big Book of C Notes:
+
+Introduction:
+
+- C is a general purpose language, closely associated with the UNIX
+system, where both the system and most of the programs for the system
+run on C.
+
+- The language is not tied to one OS however, it is not just useful for
+writing OS'es and compilers, but also for major and minor programs
+
+- Many important ideas of C extend from the language BCPL, its influence
+coming from the language B, the precursor to C
+
+- BCPL and B are 'typeless' languages, whereas C has types(int, short,
+long, etc.) along with derived data types created by pointers, arrays,
+structures and unions
+
+Chapter 1: Getting Started
+
+	- See program1_HellowWorld.c for notes on Hello World
+	- See program2_FahrenheitToCelsius for notes on FahrenheitToCelsius
+	
+	- Notes on Inserting Values into Strings:
+		- %d	: print an integer
+		- %6d	: print an integer, at least 6 characters wide
+		- %f	: print a floating point integer
+		- %6f	: print a floating point integer at least 6 characters wide
+		- %.2f	: print a floating point with 2 decimal places
+		- %6.2	: print a floating point with width 6 and 2 decimal places
+		
+		- %o	: print a number in octal
+		- %x 	: print a number in hexadecimal
+		- %c 	: print a character
+		- %s	: print a string
+		- %%	: print the character '%'
+		
+		- 
+	
+Chapter 2:

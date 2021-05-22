@@ -1,0 +1,8 @@
+GTK Notes:
+
+- What is GTK?
+	- GTK(or GTK+3 which is what's on this computer) is a library for 
+		developing GUI Applications in C
+		
+- How do I make stuff with GTK?
+	- GTK Basic Program: https://www.youtube.com/watch?v=ajNvsv1ka4I
